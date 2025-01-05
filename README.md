@@ -12,15 +12,16 @@ npm install
 
 4. Install NPM dependencies for backend and frontend
 
-````sh
+```sh
 npm run install:all
+```
 
 5. To run the application
 
 ```sh
 npm run dev
-````
+```
 
 Application runnning at http://localhost:5173/
 
-5. Test the application using the csv file [here](data.csv)
+6. Test the application using the csv file [here](data.csv)
